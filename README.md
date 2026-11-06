@@ -2,9 +2,9 @@
 
 # 🌊 Viator Deals & Travel Experiences 2026–2027
 
-### Discover more. Experience everything.
+### Viator Deals: Save Up to 50% on Selected Tours & Experiences
 
-![Viator travel experiences banner](./assets/banner.svg)
+![Viator travel experiences banner](./https://static.wixstatic.com/media/d2620f_3318a06c79a9471caa9e516da474d0c1~mv2.png)
 
 **Explore tours, attraction tickets, sightseeing and memorable activities worldwide.**
 
